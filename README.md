@@ -5,3 +5,5 @@ No list is exhaustive.
 Head over to our list of recent work in categories.
 
 https://github.com/Math-AI-Institute/AI-World/wiki
+
+You can consider giving a ⭐️ for encouraging us. 
