@@ -1,15 +1,3 @@
-<div align="center">
-
-# 🌍 AI World
-
-🤖  AI is big! No single list can capture it all — but we’re curating the best we can.  
-
-👉 Explore our [categorized collection of recent AI work](https://github.com/Math-AI-Institute/AI-World/wiki).  
-
-⭐️ If you find it useful, consider giving the project a star to support and encourage us!  
-
-</div>
-
 # 🌍 AI-World
 
 > **A living map of Artificial Intelligence — connecting ideas, models, and people.**
@@ -30,7 +18,6 @@ to dive into structured topics like:
 - 🎨 [Generative Models](https://github.com/Math-AI-Institute/AI-World/wiki/Generative-Models)  
 - ⚙️ [AI Software & Frameworks](https://github.com/Math-AI-Institute/AI-World/wiki/AI-Software)  
 - 🧩 [World Models](https://github.com/Math-AI-Institute/AI-World/wiki/World-Models)  
-- 🧭 [AI-World Map](https://github.com/Math-AI-Institute/AI-World/wiki/AI-World-Map)
 
 Each topic connects theory, key research, and modern developments — forming a navigable world of AI knowledge.
 
@@ -51,5 +38,5 @@ AI-World aims to make it:
 
 AI is evolving fast — let’s evolve with it.  
 - ⭐️ Star the repo to support open AI knowledge.  
-- 🗣️ Discuss or contribute on our [Zulip community](https://zulip.com/) *(link your workspace here)*  
+- 🗣️ Discuss or contribute on our Zulip community (soon)  
 - 🧩 Explore ongoing w
