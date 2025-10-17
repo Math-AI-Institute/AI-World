@@ -1,9 +1,9 @@
-# 🌍 AI-World
+# 🌍 AI-Holistic
 
 > **A living map of Artificial Intelligence — connecting ideas, models, and people.**
 
 AI is big — and it keeps growing.  
-**AI-World** is a collaborative knowledge base that curates key concepts, models, and research in artificial intelligence.  
+**AI-Holistic** is a collaborative knowledge base that curates key concepts, models, and research in artificial intelligence.  
 We explore everything from classical ideas to the latest agentic systems and generative models.
 
 ---
@@ -23,7 +23,7 @@ Each topic connects theory, key research, and modern developments — forming a 
 
 ---
 
-## 💫 Why AI-World?
+## 💫 Why AI-Holistic?
 
 Because **AI knowledge is scattered**, fast-changing, and often siloed.  
 AI-World aims to make it:
