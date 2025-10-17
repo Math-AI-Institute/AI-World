@@ -39,4 +39,4 @@ AI-World aims to make it:
 AI is evolving fast — let’s evolve with it.  
 - ⭐️ Star the repo to support open AI knowledge.  
 - 🗣️ Discuss or contribute on our Zulip community (soon)  
-- 🧩 Explore ongoing w
+- 🧩 Explore ongoing wiki
