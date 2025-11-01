@@ -1,4 +1,4 @@
-# 🌍 AI-Holistic-View
+AI-Holistic-View
 
 > **A living map of Artificial Intelligence — connecting ideas, models, and people.**
 
