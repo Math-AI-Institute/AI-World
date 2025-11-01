@@ -2,7 +2,6 @@ AI-Holistic-View
 
 > **A living map of Artificial Intelligence — connecting ideas, models, and people.**
 
-AI is big — and it keeps growing.  
 **AI-Holistic** is a collaborative knowledge base that curates key concepts, models, and research in artificial intelligence.  
 We explore everything from classical ideas to the latest agentic systems and generative models.
 
