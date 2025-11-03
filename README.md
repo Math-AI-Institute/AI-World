@@ -1,4 +1,4 @@
-<img src="./aihview-animated-title-only.svg" alt="AI Holistic View — Animated Title" width="100%">
+<img src="./aihview-animated-title-only.svg" alt="AI Holistic View — Animated Title" width="50%">
 
 > **A living map of Artificial Intelligence — connecting ideas, models, and people.**
 
